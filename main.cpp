@@ -2,7 +2,7 @@
 #include <string>
 #include "employee.h"
 
-// using namespace std;
+using namespace std;
 
 int main()
 {
